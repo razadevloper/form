@@ -20,7 +20,7 @@ h1{
     position: absolute;
     width: 360px;
     height: 500px;
-    background: aqua;
+    background: #8D1EB7;
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
