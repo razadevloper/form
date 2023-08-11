@@ -7,7 +7,7 @@ body{
     background-color: #8D1EB7;
     font-family: 'Lato', sans-serif;
     text-rendering: optimizeLegibility;
-    animation: move
+    animation: move 2s infinite;
 }
 
 /*----------- REUSABLE COMPONENTS -----------*/
